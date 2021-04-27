@@ -1,4 +1,4 @@
-# :git: Git Curation
+# Git Curation
 A curated list of resources and tutorials on Git.
 
 ### General
