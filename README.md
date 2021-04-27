@@ -8,6 +8,7 @@ A curated list of resources and tutorials on Git.
 ### Tutorials
 * [Adding an existing project to GitHub using CLI](https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line)
 * [Deploy an app to Heroku with Git](https://devcenter.heroku.com/articles/git)
+* [On undoing, fixing, or removing commits in git](https://gist.github.com/silent1mezzo/1670623#remove_deep)
 
 ### Cheat Sheet
 * [Education GitHub](https://education.github.com/git-cheat-sheet-education.pdf)
